@@ -1,7 +1,7 @@
 # Project information
-site_name: "MkDocs Material Boilerplate"
-site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
-site_author: "peaceiris"
+site_name: "长颈鹿的选拔"
+site_description: "富田太阳城的伙伴们，大家好"
+site_author: "nitto"
 site_url: "https://mkdocs.peaceiris.com/"
 
 # Copyright
@@ -66,22 +66,13 @@ extra:
 
 # Page tree
 nav:
-  - "Home": "index.md"
-  - "Material for MkDocs": "material-for-mkdocs.md"
-  - "Getting started":
-      - "Download boilerplate": "getting-started/download-boilerplate.md"
-      - "pipenv": "getting-started/pipenv.md"
-      - "invoke": "getting-started/invoke.md"
-      - "Docker": "getting-started/docker.md"
-      - "pip": "getting-started/pip.md"
-  - "Hosting and Deployment":
-      - "Combinations": "hosting-and-deployment/combinations.md"
-      - "Netlify": "hosting-and-deployment/netlify.md"
-      - "GitHub Pages": "hosting-and-deployment/github-pages.md"
-      - "GitLab Pages": "hosting-and-deployment/gitlab-pages.md"
-      - "AWS Amplify Console": "hosting-and-deployment/aws-amplify-console.md"
-  - "Extensions":
-      - "MathJax": "extensions/mathjax.md"
-      - "Code Hilite": "extensions/code-hilite.md"
-      - "Footnote": "extensions/footnote.md"
-  - "License": "license.md"
+  - "默认": "index.md"
+
+  - "商家": 
+      - "普通众包": "bs/b1.md"
+      - "畅跑": "bs/b2.md"
+      - "专送": "bs/b3.md"
+      
+  - "顾客": "cu/README.md"
+
+  - "关于": "gy.md"
