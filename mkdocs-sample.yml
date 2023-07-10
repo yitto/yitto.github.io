@@ -16,7 +16,7 @@ edit_uri: "https://github.com/peaceiris/mkdocs-material-boilerplate/edit/main/do
 docs_dir: "docs_sample"
 theme:
   name: "material"
-  language: "en"
+  language: "zh-CN"
   shortcuts:
     help: 191 # ?
     next: 78 # n
