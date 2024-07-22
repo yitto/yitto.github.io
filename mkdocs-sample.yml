@@ -69,8 +69,9 @@ nav:
   - "默认": "index.md"
 
   - "商家": 
+      - "普通众包": "bs/b1.md"
       - "畅跑": "bs/b2.md"
       
-  - "顾客": "cu/README.md"
+  - "顾客": "cu/c1.md"
 
   - "关于": "gy.md"
