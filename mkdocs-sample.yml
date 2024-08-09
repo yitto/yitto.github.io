@@ -12,6 +12,9 @@ repo_name: "GitHub"
 repo_url: "https://github.com/yitto/yitto.github.io"
 edit_uri: "https://github.com/yitto/yitto.github.io/edit/main/docs_sample"
 
+repo_name: "豫ICP备2021022799号"
+repo_url: "https://beian.miit.gov.cn/" target="_blank"
+
 # Configuration
 docs_dir: "docs_sample"
 theme:
