@@ -61,8 +61,7 @@ extra_css:
 extra:
   manifest: "manifest.json"
   social:
-    - icon: "豫ICP备2021022799号"
-      link: "https://beian.miit.gov.cn/" target="_blank"
+
     - icon: "fontawesome/brands/twitter"
       link: "https://twitter.com/piris314en"
 
