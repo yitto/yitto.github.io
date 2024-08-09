@@ -16,6 +16,7 @@ edit_uri: "https://github.com/yitto/yitto.github.io/edit/main/docs_sample"
 docs_dir: "docs_sample"
 theme:
   name: "material"
+  custom_dir: overrides
   language: "zh"
   shortcuts:
     help: 191 # ?
