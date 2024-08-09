@@ -5,7 +5,7 @@ site_author: "nitto"
 site_url: "https://mkdocs.peaceiris.com/"
 
 # Copyright
-copyright: "&copy; 2021 peaceiris"
+copyright: "&copy; 2021 <a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备2021022799号</a>"
 
 # Repository
 repo_name: "GitHub"
@@ -16,7 +16,7 @@ edit_uri: "https://github.com/yitto/yitto.github.io/edit/main/docs_sample"
 docs_dir: "docs_sample"
 theme:
   name: "material"
-  custom_dir: overrides
+  
   language: "zh"
   shortcuts:
     help: 191 # ?
