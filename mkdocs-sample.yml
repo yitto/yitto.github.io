@@ -16,7 +16,7 @@ edit_uri: "https://github.com/yitto/yitto.github.io/edit/main/docs_sample"
 docs_dir: "docs_sample"
 theme:
   name: "material"
-  
+  custom_dir: overrides
   language: "zh"
   shortcuts:
     help: 191 # ?
@@ -61,10 +61,6 @@ extra_css:
   - "assets/css/custom.css"
 extra:
   manifest: "manifest.json"
-  social:
-    - icon: "fontawesome/brands/docker"
-      link: "https://beian.miit.gov.cn/" target="_blank"
-      name: 豫ICP备2021022799号
 
 # Page tree
 nav:
