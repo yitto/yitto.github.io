@@ -2,27 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mkdocs.peaceiris.com/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mkdocs.peaceiris.com/gy/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mkdocs.peaceiris.com/bs/b1/</loc>
-         <lastmod>2024-08-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mkdocs.peaceiris.com/bs/b2/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mkdocs.peaceiris.com/cu/c1/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
